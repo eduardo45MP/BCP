@@ -1,4 +1,4 @@
-# Basic Chatbot Project - Portfolio Showcase
+# Basic Chatbot Project
 
 Hello,
 
